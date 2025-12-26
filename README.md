@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-manish-vaidya&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-manish-vaidya" /> </p>
 
-[[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-manish-vaidya" alt="aryan-manish-vaidya" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)
-
 - 🔭 I’m currently working on **Aurora**
 
 - 🌱 I’m currently learning **Frameworks, Networking and Data Visualization**
