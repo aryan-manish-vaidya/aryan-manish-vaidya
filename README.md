@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Manish Vaidya</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast and Sales Enthusiast from India,Maharashtra.</h3>
+<h3 align="center">A passionate Cyber Security Engineer and Business Development Stragist from India,Maharashtra.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-manish-vaidya&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-manish-vaidya" /> </p>
 
