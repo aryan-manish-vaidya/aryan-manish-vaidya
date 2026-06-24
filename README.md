@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aryan-manish-vaidya/](https://www.linkedin.com/in/aryan-manish-vaidya/)
 
-- 💬 Ask me about **Cyber Security & Sales**
+- 💬 Ask me about **Cyber Security, Sales & Business Development Strategies**
 
 - 📫 How to reach me **vaidya.aryan.m@gmail.com**
 
